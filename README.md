@@ -26,10 +26,14 @@ To provide insight into the ideal time to launch a campaign, we again used the o
 
 ### Theater Outcomes by Launch Date
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/80495032/111089132-e1387580-8500-11eb-809f-e38d6ed300f3.png)
+
 Based on when the majority of successful campaigns occurred on Kickstarter we can see that May would be the ideal time to launch a campaign. 
 However, this seems to also track with rate of activity. That is to say, more campaigns occur during these months so naturally there are more successful campaigns in these months. So, yes, it is a good idea to launch in May but it is not a guarantee for success. 
 
 ### Outcomes based on Goals 
+
+![Outcomes_VS_Goals](https://user-images.githubusercontent.com/80495032/111089094-ad5d5000-8500-11eb-8518-c6dd9c4881c1.png)
 
 Given the data, success rates seem to be more successful with lower goal amounts. The higher the amount the higher the failure rate. This doesn’t hold precisely true in some of the higher amount goal levels, but that is balanced with much smaller data sets for those ranges. With the data provided, our strongest chance of success if setting a goal of $5000. 
 
